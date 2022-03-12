@@ -1,0 +1,15 @@
+{
+    "name": "andrewmiller/wordpress-plugins",
+    "autoload": {
+        "psr-4": {
+            "Andrewmiller\\WordpressPlugins\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Miller",
+            "email": "andrew.patrick.miller.2021@gmail.com"
+        }
+    ],
+    "require": {}
+}
